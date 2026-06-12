@@ -111,12 +111,6 @@ The main Python libraries used may include:
 * Time
 * OS
 
-Install missing libraries using:
-
-```bash
-pip3 install opencv-python numpy pillow pyserial
-```
-
 ## Important Note About the Fire Detection Model
 
 The fire detection model used in this project is connected through an online Roboflow model/API. This means the model may stop working in the future if the API key expires, the account access changes, the Roboflow project is deleted, or the model version becomes unavailable.
