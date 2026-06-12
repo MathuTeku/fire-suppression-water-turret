@@ -237,7 +237,7 @@ Use manual testing first before using automatic mode.
 Add the names of the group members here.
 
 * John Hervey Abella
-* Cirilo Ignacio Geronio
+* Cirilo Ignacio Geronio (Contact +639083785232 for any questions.)
 * Mike Jasper Lingasin
 * Yuan Gabriel Vinegas
 
