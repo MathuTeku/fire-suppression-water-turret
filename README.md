@@ -18,6 +18,19 @@ Because of this, the system should be run from that folder on the Jetson Nano.
 
 If the file is moved to another folder, some paths, imports, model files, or hardware-related settings may need to be changed.
 
+## Jetson Nano Login Note
+
+The current Jetson Nano login password is:
+
+```text
+1234
+```
+
+This password is needed to open and access the Jetson Nano used for this project.
+
+For security, future students are advised to change the password after receiving the device, especially if the Jetson Nano will be connected to a network or used for remote access.
+
+
 ## How to Run the System on the Jetson Nano
 
 1. Turn on the Jetson Nano.
